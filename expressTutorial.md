@@ -119,9 +119,7 @@ Then :
 ## References
 
 * Express.js video tutorials : [http://www.youtube.com/watch?v=eD2I0zAjM5g](http://www.youtube.com/watch?v=eD2I0zAjM5g)
-
 * Nodester AF CLI tool : [https://docs.appfog.com/getting-started/af-cli](https://docs.appfog.com/getting-started/af-cli)
-
 *  NodeCloud : [http://www.nodecloud.org/](http://www.nodecloud.org/)
 
 
