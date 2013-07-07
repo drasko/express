@@ -100,7 +100,7 @@ Then :
     Staging Application 'hello-test': OK                                            
     Starting Application 'hello-test': OK                                           
 ```
-* Visit [hello-test.eu01.aws.af.cm](hello-test.eu01.aws.af.cm)
+* Visit [http://hello-test.eu01.aws.af.cm](http://hello-test.eu01.aws.af.cm)
 
 
 ## References
