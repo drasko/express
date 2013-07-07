@@ -1,13 +1,11 @@
 # Node.js Express Tutorial
 
 ## Installation
-
 ```bash
     Marx:/home/drasko/express# npm install -g express
 ```
 
 ## Getting help
-
 ```bash
     drasko@Marx:~/express$ express --help
 
@@ -26,7 +24,6 @@
 ```
 
 ## Generating app
-
 ```bash
     drasko@Marx:~/express$ express helloWorld -c less -H
 
@@ -54,13 +51,11 @@
 
 
 ## GitHub
-
 [https://github.com](https://github.com)
 
 First create GitHub repo.
 
 Then :
-
 ```bash
     git init
     git add .
@@ -70,23 +65,16 @@ Then :
 ```
 
 ## Nodester
-
 [http://nodester.com](http://nodester.com)
-
 * Install af cli tool :
-
 ```bash
     Marx:/home/drasko# gem install af
 ```
-
 * Login to af :
-
 ```bash
     drasko@Marx:~$ af login
 ```
-
 * Go into the Express app directory and push it to the Nodester :
-
 ```bash
     drasko@Marx:~/express/helloWorld$ af push
     Would you like to deploy from the current directory? [Yn]: 
@@ -112,7 +100,6 @@ Then :
     Staging Application 'hello-test': OK                                            
     Starting Application 'hello-test': OK                                           
 ```
-
 * Visit [hello-test.eu01.aws.af.cm](hello-test.eu01.aws.af.cm)
 
 
