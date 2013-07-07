@@ -71,19 +71,19 @@ Then :
 
 http://nodester.com/
 
-1. Install af cli tool :
+* Install af cli tool :
 
 ```bash
     Marx:/home/drasko# gem install af
 ```
 
-2. Login to af :
+* Login to af :
 
 ```bash
     drasko@Marx:~$ af login
 ```
 
-3. Go into the Express app directory and push it to the Nodester :
+* Go into the Express app directory and push it to the Nodester :
 
 ```bash
     drasko@Marx:~/express/helloWorld$ af push
@@ -111,7 +111,7 @@ http://nodester.com/
     Starting Application 'hello-test': OK                                           
 ```
 
-3. Visit hello-test.eu01.aws.af.cm
+* Visit hello-test.eu01.aws.af.cm
 
 
     
