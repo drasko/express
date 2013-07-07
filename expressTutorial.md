@@ -55,7 +55,7 @@
 
 ## GitHub
 
-https://github.com
+[https://github.com](https://github.com)
 
 First create GitHub repo.
 
@@ -71,7 +71,7 @@ Then :
 
 ## Nodester
 
-http://nodester.com/
+[http://nodester.com](http://nodester.com)
 
 * Install af cli tool :
 
@@ -114,6 +114,15 @@ http://nodester.com/
 ```
 
 * Visit [hello-test.eu01.aws.af.cm](hello-test.eu01.aws.af.cm)
+
+
+## References
+
+* Express.js video tutorials : [http://www.youtube.com/watch?v=eD2I0zAjM5g](http://www.youtube.com/watch?v=eD2I0zAjM5g)
+
+* Nodester AF CLI tool : [https://docs.appfog.com/getting-started/af-cli](https://docs.appfog.com/getting-started/af-cli)
+
+*  NodeCloud : [http://www.nodecloud.org/](http://www.nodecloud.org/)
 
 
     
