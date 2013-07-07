@@ -1,10 +1,12 @@
 # Installation
 
+```bash
     Marx:/home/drasko/express# npm install -g express
-
+```
 
 # Getting help
 
+```bash
     drasko@Marx:~/express$ express --help
 
     Usage: express [options]
@@ -19,9 +21,11 @@
         -H, --hogan         add hogan.js engine support
         -c, --css <engine>  add stylesheet <engine> support (less|stylus) (defaults to plain css)
         -f, --force         force on non-empty directory
+```
 
 # Generating app
 
+```bash
     drasko@Marx:~/express$ express helloWorld -c less -H
 
     create : helloWorld
@@ -44,6 +48,8 @@
     run the app:
         $ node app
 
+```
+
 
 # GitHub
 
@@ -53,12 +59,13 @@ First create GitHub repo.
 
 Then :
 
+```bash
     git init
     git add .
     git commit -m "first commit"
     git remote add origin https://github.com/drasko/express.git
     git push -u origin master
-
+```
 
 # Nodester
 
@@ -66,13 +73,19 @@ http://nodester.com/
 
 1. Install af cli tool :
 
+```bash
     Marx:/home/drasko# gem install af
+```
 
 2. Login to af :
+
+```bash
     drasko@Marx:~$ af login
-    
+```
+
 3. Go into the Express app directory and push it to the Nodester :
 
+```bash
     drasko@Marx:~/express/helloWorld$ af push
     Would you like to deploy from the current directory? [Yn]: 
     Application Name: hello-test
@@ -96,7 +109,7 @@ http://nodester.com/
     Push Status: OK
     Staging Application 'hello-test': OK                                            
     Starting Application 'hello-test': OK                                           
-
+```
 
 3. Visit hello-test.eu01.aws.af.cm
 
