@@ -1,10 +1,12 @@
-# Installation
+# Node.js Express Tutorial
+
+## Installation
 
 ```bash
     Marx:/home/drasko/express# npm install -g express
 ```
 
-# Getting help
+## Getting help
 
 ```bash
     drasko@Marx:~/express$ express --help
@@ -23,7 +25,7 @@
         -f, --force         force on non-empty directory
 ```
 
-# Generating app
+## Generating app
 
 ```bash
     drasko@Marx:~/express$ express helloWorld -c less -H
@@ -51,7 +53,7 @@
 ```
 
 
-# GitHub
+## GitHub
 
 https://github.com
 
@@ -67,7 +69,7 @@ Then :
     git push -u origin master
 ```
 
-# Nodester
+## Nodester
 
 http://nodester.com/
 
