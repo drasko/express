@@ -113,7 +113,7 @@ http://nodester.com/
     Starting Application 'hello-test': OK                                           
 ```
 
-* Visit hello-test.eu01.aws.af.cm
+* Visit [hello-test.eu01.aws.af.cm](hello-test.eu01.aws.af.cm)
 
 
     
