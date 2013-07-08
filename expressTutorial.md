@@ -106,7 +106,9 @@ Then :
 
 ## Bootstrap and Font-Awesome
 
+
 Twitter Bootstrap: [http://twitter.github.io/bootstrap/](http://twitter.github.io/bootstrap/)
+
 Font-Awesome: [http://fortawesome.github.io/Font-Awesome/](http://fortawesome.github.io/Font-Awesome/)
 
 * Copy `getBootstrap.sh` to folder of new application and run it
