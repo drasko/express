@@ -75,6 +75,7 @@ Then :
     drasko@Marx:~$ af login
 ```
 * Go into the Express app directory and push it to the Nodester :
+
 ```bash
     drasko@Marx:~/express/helloWorld$ af push
     Would you like to deploy from the current directory? [Yn]: 
@@ -100,6 +101,7 @@ Then :
     Staging Application 'hello-test': OK                                            
     Starting Application 'hello-test': OK                                           
 ```
+
 * Visit [http://hello-test.eu01.aws.af.cm](http://hello-test.eu01.aws.af.cm)
 
 
